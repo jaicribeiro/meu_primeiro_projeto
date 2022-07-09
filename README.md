@@ -2,6 +2,6 @@
 
 git add .
 git commit -m "Ajuste"
-get push
+git push
 
 ## Teste
